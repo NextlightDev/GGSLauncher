@@ -1,1 +1,1 @@
-# GammaGamingStudioLauncher
+# GGSLauncher
